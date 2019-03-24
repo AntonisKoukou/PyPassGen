@@ -13,7 +13,7 @@ print("\n")
 print("pers" + str(-+55.4558) + name + str(num) + "nalle")
 print("\n") 
 print("\n") 
-print("Chose one that is for you.") 
+print("Choose one that is for you.") 
 
 
 
